@@ -18,7 +18,7 @@ p_BoardObject ListBoardObjects:: theFirst()
 	   else
 		return NULL;
 	}
-
+//comment
 
 void ListBoardObjects:: addOne(p_BoardObject newOne)
 	 { 
