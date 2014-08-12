@@ -6,6 +6,7 @@
 #define H_LIST_OF_OBJECTS
 typedef BoardObject* p_BoardObject;
 
+//comment
 
 class  ListBoardObjects
 {
