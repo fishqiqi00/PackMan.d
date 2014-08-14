@@ -1,4 +1,4 @@
-
+//comment
 
 #define ROWS 20
 #define COLUMNS 20
